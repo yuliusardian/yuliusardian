@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Yo 👋 ! My name is : Yulius Ardian Febrianto. I was born on Yogyakarta, Indonesia in 1996
+
+🔭 I’m currently working on tech service company based on Jakarta for almost 5 years and promoted as a Back-end Leader since 1 Apr 2022
+
+🌱 I’m currently learning how to manage team, growing team, and more important is giving my team idea when they get stucked in code.
+
+📫 How to reach me ? You can reach me at me@yuliusardian.com :) 
+
+⚡ Fun fact: I love golden retriever ! How cute they are
+
 <!--
 **yuliusardian/yuliusardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
