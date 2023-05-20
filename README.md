@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Yo 👋 ! My name is : Yulius Ardian Febrianto. I was born on Yogyakarta, Indonesia in 1996
+Yo 👋 ! My name is : Yulius Ardian Febrianto. I was born in Yogyakarta, Indonesia, in 1996.
 
-🔭 I’m currently working on tech service company based on Jakarta for almost 5 years and promoted as a Back-end Leader since 1 Apr 2022
+🔭 I’m currently working for a tech service company based in Jakarta for almost 5 years and being promoted as a Back-end Leader since 1 Apr 2022
 
-🌱 I’m currently learning how to manage team, growing team, and more important is giving my team idea when they get stucked in code.
+🌱 I’m currently learning how to manage a team, growing team, and more important is giving my team ideas when they get stuck in code.
 
 📫 How to reach me ? You can reach me at me@yuliusardian.com :) 
 
